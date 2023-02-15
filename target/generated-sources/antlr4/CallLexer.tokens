@@ -1,0 +1,16 @@
+T__0=1
+T__1=2
+T__2=3
+WHITE_SPACE=4
+NON_KEYWORD=5
+SEMI=6
+PIPE=7
+GREATER_THAN=8
+LESS_THAN=9
+'\''=1
+'"'=2
+'`'=3
+';'=6
+'|'=7
+'>'=8
+'<'=9

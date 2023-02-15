@@ -1,0 +1,6 @@
+T__0=1
+NONSPECIAL=2
+DOUBLEQUOTED=3
+SINGLEQUOTED=4
+back_quotes=5
+';'=1

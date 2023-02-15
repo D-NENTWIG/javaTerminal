@@ -4,4 +4,4 @@ Java terminal that has many commands you'd find in a typical terminal, e.g. echo
 
 Uses ANTLR parser to find commands, pipes, etc.
 
-#Runs within docker
+# Runs within docker
